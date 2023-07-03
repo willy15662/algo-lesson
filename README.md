@@ -1,23 +1,15 @@
 # algo-lesson
 111nchu algo
-
-* HW1_ArrayData
-  * rank 37
-* HW2_FourSum
-  * rank 11
-* HW3_One 0K Rock
-  * rank 5
-* HW4_I_am_Elon_ma
-  * rank 22
-* HW5_Win_a_little_bit
-  * rank 14
-* HW6_MedianOfArrays
-  * rank 11
-* HW7_LLK
-  * rank 32
-* HW8_MaxLandArea
-  * rank 15
-* HW9_LSD
-  * rank 10
-* HW10_Buy_Phone
-  * rank 2
+ 
+| HW | rank  |
+| -------- | -------- |
+|hw01_ArrayData  | 37  |
+|hw02_FourSum| 11  | 
+|hw03_One 0K Rock| 5  | 
+|hw04_I_am_Elon_ma| 22  | 
+|hw05_Win_a_little_bit| 14  | 
+|hw06_MedianOfArrays| 11  |
+|hw07_LLK| 32  |
+|hw08_MaxLandArea| 15 | 
+|hw09_LSD| 10 |
+|hw08_Buy_Phone|  2 |
